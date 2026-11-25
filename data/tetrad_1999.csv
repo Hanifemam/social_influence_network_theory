@@ -1,0 +1,5 @@
+member,opinion_initial,opinion_final,W_fitted_A,W_fitted_B,W_fitted_C,W_fitted_D
+A,25,60,0.220,0.120,0.359,0.300
+B,25,60,0.147,0.215,0.344,0.294
+C,75,75,0.000,0.000,1.000,0.000
+D,85,75,0.089,0.178,0.446,0.286
